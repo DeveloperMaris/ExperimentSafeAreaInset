@@ -1,4 +1,4 @@
-Experiment for Safe Area Inset
+# Experiment for Safe Area Inset
 
 An example of how to add a dedicated area at the bottom of the screen with a blurred background in SwiftUI.
 
